@@ -1,2 +1,2 @@
-# Hu-Jiaqi.github.io
-This is my personal homepage
+# Jiaqi Hu
+This is Jiaqi Hu's personal homepage
